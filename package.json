@@ -1,0 +1,16 @@
+{
+  "name": "odev1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
