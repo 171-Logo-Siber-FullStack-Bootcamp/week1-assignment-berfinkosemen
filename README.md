@@ -22,7 +22,7 @@ README.md - Bu dosya.
 ------------------
 Kodun çalışması için öncelikle
 npm install xmlhttprequest --save 
-satırının terminalde dosyanın içinde çelıştırılası gereklidir.
+satırının terminalde dosyanın içinde çalıştırılası gereklidir.
 ------------------
 
 
